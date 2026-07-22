@@ -1,6 +1,6 @@
 # Stack
 
-One-page institucional da Stack — estúdio digital que cria sites e experiências jogáveis (jogos no Roblox, via Stack Interactive).
+One-page institucional da Stack, um estúdio digital que cria sites e experiências jogáveis (jogos no Roblox, com a Stack Interactive).
 
 🔗 **Site:** [stackstudio0.vercel.app](https://stackstudio0.vercel.app/)
 
