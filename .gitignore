@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js build output
+.next/
+out/
+
+# Temporary and local files
+tmp/
+*.tsbuildinfo
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Internal AI workflow docs (not for public repo)
+CLAUDE.md
+AGENTS.md
+PLAN.md
+.claude/
+agent_docs/
